@@ -1,0 +1,75 @@
+/* Font style: normal */
+@font-face {
+  font-family: 'Overpass';
+  src:
+    url(./fonts/overpass/Overpass-Thin.ttf) format('truetype'),
+    url(./fonts/overpass/Overpass-Thin.eot),
+    url(./fonts/overpass/Overpass-Thin.eot?#iefix)
+      format('embedded-opentype'),
+    url(./fonts/overpass/Overpass-Thin.woff2) format('woff2'),
+    url(./fonts/overpass/Overpass-Thin.woff) format('woff');
+  font-style: normal;
+  font-weight: 100;
+}
+@font-face {
+  font-family: 'Overpass';
+  src:
+    url(./fonts/overpass/Overpass-Medium.ttf) format('truetype'),
+    url(./fonts/overpass/Overpass-Medium.eot),
+    url(./fonts/overpass/Overpass-Medium.eot?#iefix)
+      format('embedded-opentype'),
+    url(./fonts/overpass/Overpass-Medium.woff2) format('woff2'),
+    url(./fonts/overpass/Overpass-Medium.woff) format('woff');
+  font-style: normal;
+  font-weight: 500;
+}
+@font-face {
+  font-family: 'Overpass';
+  src: 
+    url(./fonts/overpass/Overpass-Bold.ttf) format('truetype'),
+    url(./fonts/overpass/Overpass-Bold.eot),
+    url(./fonts/overpass/Overpass-Bold.eot?#iefix)
+      format('embedded-opentype'),
+    url(./fonts/overpass/Overpass-Bold.woff2) format('woff2'),
+    url(./fonts/overpass/Overpass-Bold.woff) format('woff');
+  font-style: normal;
+  font-weight: 700;
+}
+
+/* Font style: italic */
+@font-face {
+  font-family: 'Overpass';
+  src:
+    url(./fonts/overpass/Overpass-ThinItalic.ttf) format('truetype'),
+    url(./fonts/overpass/Overpass-ThinItalic.eot),
+    url(./fonts/overpass/Overpass-ThinItalic.eot?#iefix)
+      format('embedded-opentype'),
+    url(./fonts/overpass/Overpass-ThinItalic.woff2) format('woff2'),
+    url(./fonts/overpass/Overpass-ThinItalic.woff) format('woff');
+  font-style: italic;
+  font-weight: 100;
+}
+@font-face {
+  font-family: 'Overpass';
+  src:
+    url(./fonts/overpass/Overpass-MediumItalic.ttf) format('truetype'),
+    url(./fonts/overpass/Overpass-MediumItalic.eot),
+    url(./fonts/overpass/Overpass-MediumItalic.eot?#iefix)
+      format('embedded-opentype'),
+    url(./fonts/overpass/Overpass-MediumItalic.woff2) format('woff2'),
+    url(./fonts/overpass/Overpass-MediumItalic.woff) format('woff');
+  font-style: italic;
+  font-weight: 500;
+}
+@font-face {
+  font-family: 'Overpass';
+  src:
+    url(./fonts/overpass/Overpass-BoldItalic.ttf) format('truetype'),
+    url(./fonts/overpass/Overpass-BoldItalic.eot),
+    url(./fonts/overpass/Overpass-BoldItalic.eot?#iefix)
+      format('embedded-opentype'),
+    url(./fonts/overpass/Overpass-BoldItalic.woff2) format('woff2'),
+    url(./fonts/overpass/Overpass-BoldItalic.woff) format('woff');
+  font-style: italic;
+  font-weight: 700;
+}

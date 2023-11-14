@@ -1,0 +1,42 @@
+h1 {
+	font-family: 'Overpass';
+	font-weight: bold;
+}
+
+h2 {
+	font-family: 'Overpass';
+	font-weight: normal;
+}
+
+ul {
+	font-size: 18px;
+}
+
+.normal--thin {
+	font-family: 'Overpass';
+	font-weight: 100;
+}
+.normal--regular {
+	font-family: 'Overpass';
+	font-weight: normal;
+}
+.normal--bold {
+	font-family: 'Overpass';
+	font-weight: bold;
+}
+
+.italic--thin {
+	font-family: 'Overpass';
+	font-style: italic;
+	font-weight: 100;
+}
+.italic--regular {
+	font-family: 'Overpass';
+	font-style: italic;
+	font-weight: normal;
+}
+.italic--bold {
+	font-family: 'Overpass';
+	font-style: italic;
+	font-weight: bold;
+}
